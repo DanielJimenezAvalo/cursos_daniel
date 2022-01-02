@@ -1,0 +1,1 @@
+//variables: representacion de un lugar en memoria
